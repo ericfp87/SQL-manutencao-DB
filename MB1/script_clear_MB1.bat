@@ -1,0 +1,1 @@
+sqlcmd -S SCADA-MB1\SQLEXPRESS -d Scada -U sa -P @Bulbe_SQL -i "C:\Script\clear_database_mb1.sql"

@@ -1,0 +1,1 @@
+sqlcmd -S SCADA-TB3\SQLEXPRESS -d Scada -U sa -P @Bulbe_SQL -i "C:\Script\clear_database_tb3.sql"

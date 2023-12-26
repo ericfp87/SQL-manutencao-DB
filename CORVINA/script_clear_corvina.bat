@@ -1,0 +1,1 @@
+sqlcmd -S DESKTOP-T2T013J\SQLEXPRESS -d Scada -U Bulbe -P Bulbe@2022 -i "C:\Script\clear_database_Corvina.sql"

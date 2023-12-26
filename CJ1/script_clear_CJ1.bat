@@ -1,0 +1,1 @@
+sqlcmd -S CORJESUS-PC\SQLEXPRESS -d Scada -U sa -P @Bulbe_SQL -i "C:\Script\clear_database_cj1.sql"
